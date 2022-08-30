@@ -1,0 +1,8 @@
+# ninja log v5
+1281	1580	6747416737813580	Stack.exe	11c3c83f376cc3ca
+0	1276	6747416735250424	CMakeFiles/Stack.dir/main.cpp.obj	f68f21fb5ab9e3ec
+4	847	6747418988356477	CMakeFiles/Stack.dir/AddWithLinkedlist.cpp.obj	599b81ef8b975f3a
+1	385	6747422120480325	build.ninja	53f8e7ebe2c6dcfe
+4	185	6747422123252926	Stack.exe	11c3c83f376cc3ca
+7	1019	6747429969532828	CMakeFiles/Stack.dir/main.cpp.obj	f68f21fb5ab9e3ec
+1019	1265	6747429971766890	Stack.exe	11c3c83f376cc3ca
